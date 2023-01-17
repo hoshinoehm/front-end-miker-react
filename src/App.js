@@ -1,13 +1,14 @@
 
 
-import Login from './views/login';
+//import Login from './views/login';
+import CadastroUsuario from './views/cadastroUsuario';
 import './custom.css'
 
 function App() {
   return (
     <div>
 
-        <Login/>
+        <CadastroUsuario/>
 
     </div>
       
